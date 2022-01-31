@@ -1,0 +1,15 @@
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.exe
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.deps.json
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.runtimeconfig.json
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.dll
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\ref\CadastroDeSeries.dll
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.pdb
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.csproj.AssemblyReference.cache
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfoInputs.cache
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfo.cs
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.dll
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\ref\CadastroDeSeries.dll
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.pdb
+B:\Batsu Game\Programação\Projetos\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.genruntimeconfig.cache
